@@ -1,0 +1,5 @@
+# Site settings
+name: Morgenstern Law
+markdown: redcarpet
+pygments: true
+baseurl: /landing-page
