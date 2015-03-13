@@ -1,12 +1,12 @@
 ---
 layout: default
-img: ipad.png
+img: family.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Family Law Since 1986
 description: |
-  <p class="lead">A special thanks to <a target="_blank"
-  href="http://join.deathtothestockphoto.com/">Death to the Stock
-  Photo</a> for providing the photographs that you see in this template.
-  Visit their website to become a member!</p>
+  <p class="lead">Barbara R. Morgenstern, PLLC is focused solely on family law. Since 1986 she has served families in Greensboro, Guilford County and throughout North Carolina.
+  <br>
+  <br>
+  Family law is an area of the law that deals with family-related issues and domestic relations including the nature of marriage, civil unions, and domestic partnerships.</p>
 
 ---

@@ -938,6 +938,7 @@ img {
   width: 100% \9;
   max-width: 100%;
   height: auto;
+  border: 3px solid #fff;
 }
 .img-rounded {
   border-radius: 6px;

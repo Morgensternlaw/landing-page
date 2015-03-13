@@ -4,9 +4,16 @@ img: phones.png
 category: Services
 title: Google Web Fonts and<br>Font Awesome Icons
 description: |
-  <p class="lead">This template features the 'Lato' font,
-  part of the <a target="_blank" href="http://www.google.com/fonts">Google
-  Web Font library</a>, as well as <a target="_blank"
-  href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+  <p class="lead">Barbara Morgenstern was admitted to practice in North Carolina in 1986, after receiving a Bachelor's Degree in 1977 in Spanish from Indiana University, and her J.D. degree from the University of North Carolina School of Law in 1986.
+  
+  Before forming her own firm in 1993, Ms. Morgenstern was an associate with the law firm of Hill, Evans, Jordan & Beatty, P.L.L.C. in Greensboro, North Carolina. She currently practices in Guilford County. Ms. Morgenstern's practice is limited solely to family law. She was certified as a specialist in family law by the North Carolina State Bar in 1991.
+  
+  Ms. Morgenstern has served as chair of the Family Law Section of the North Carolina Bar Association. She has served on various committees of the Family Law Section and currently serves as a member of the Curriculum and Alternate Dispute Resolution committees of the North Carolina Family Law Section.
+  
+  Ms. Morgenstern is a frequent speaker at continuing legal education seminars sponsored by such providers as the North Carolina Bar Foundation, UNC Law School, and Wake Forest University School of Law. She has also served an adjunct professor of family law at Elon University School of law and as a guest lecturer at the University of North Carolina School of Law.
+  
+  Ms. Morgenstern has written and presented on a wide range of topics, including custody, child support, alimony, equitable distribution, valuation of professional licenses and degrees, proving income and depression of income, reconciliation agreements, the Model Relocation Act, ethics, and deposition techniques. Ms. Morgenstern is certified as an arbitrator by the American Academy of Matrimonial Lawyers and spends a substantial amount of her time conducting mediations. She currently serves as Treasurer of the North Carolina Chapter of the American Academy of Matrimonial Lawyers.
+  
+  Ms. Morgenstern has been listed in the Family Law Section of Best Lawyers in America since 1997, and was recently named Best Family Lawyer in Greensboro by Best Lawyers in America.</p>
 
 ---

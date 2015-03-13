@@ -1,13 +1,19 @@
 ---
 layout: default
-img: dog.png
+img: house.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Areas of Practice<br>
 description: |
-  <p class="lead">Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by <a
-  target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit
-  their website to download some of their awesome, free photoshop
-  actions!</p>
+  <p class="lead">Our areas of practice include but are not limited to:</p>
+  
+  <ul> 
+  		<li>Divorce</li>
+  		<li>Alimony</li>
+  		<li>Mediation</li>
+  		<li>Custody</li>
+  		<li>Property Settlements</li>
+  		<li>Child Support</li>
+  
+  </ul>
 
 ---
