@@ -1,0 +1,14 @@
+---
+layout: default
+img: .jpg
+category: Services
+title: Melanie Y. Crenshaw
+description: |
+  <p class="lead">Ms. Crenshaw recieved her J.D. Degree summa cum laude from the Elon University School of Law in 2009. Ms. Crenshaw is a member of the North Carolina Bar Association and the Greensboro Bar Association.
+  		<br />
+  		<br />
+  		Before entering law school, Ms. Crenshaw taught French at a high school in Fayetteville, North Carolina, for seven years. <a href="http://">Click here for more information about Ms. Crenshaw.</a>
+  
+  </p>
+
+---

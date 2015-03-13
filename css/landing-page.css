@@ -10,9 +10,13 @@ html {
     height: 100%;
 }
 
-body,
 h1,
-h2,
+h2 {
+	font-family: 'Playfair Display', Georgia, serif;
+	font-weight: 700;
+}
+
+body,
 h3,
 h4,
 h5,
