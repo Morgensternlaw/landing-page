@@ -7,7 +7,7 @@ description: |
   <p class="lead">Ms. Morgenstern has been listed in the Family Law Section of Best Lawyers in America since 1997, and was recently named Best Family Lawyer in Greensboro by <em>Best Lawyers in America</em>.
   		<br />
   		<br />
-  		After getting her J.D. degree from the University of North Carolina School of Law in 1986, Ms. Morgenstern started her own firm in 1993. <a href="http://">Click here for more information about Ms. Morgenstern.</a>
+  		After getting her J.D. degree from the University of North Carolina School of Law in 1986, Ms. Morgenstern started her own firm in 1993. <a href="http://morgensternlaw.github.io/landing-page/about/">Click here for more information about Ms. Morgenstern.</a>
   
   </p>
 
